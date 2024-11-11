@@ -25,9 +25,6 @@
 #include <fstream>
 #include <iomanip>
 
-#define WIN32_LEAN_AND_MEAN
-#define VC_EXTRALEAN
-#define WIN32_EXTRA_LEAN
 #include <windows.h>
 #include <d3d12.h>
 
